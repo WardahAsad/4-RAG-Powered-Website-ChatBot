@@ -1,0 +1,10 @@
+langchain              # Helps build smart AI apps by connecting tools and models
+langchain_community    # Extra helpful tools made by the Langchain community
+langchain-google-genai # Connects to Google’s AI models for language understanding and generation
+python-dotenv          # Loads secret keys and settings from a hidden file safely
+streamlit              # Makes it easy to build interactive web apps with Python
+sentence-transformers  # Converts sentences into number codes (embeddings) for AI to understand meaning
+langchain_chroma       # Helps store and search through chunks of text quickly and smartly
+langchainhub           # A library to find and share Langchain components easily
+chromadb 
+langchain-core         # Core functionalities of Langchain for building AI applications
